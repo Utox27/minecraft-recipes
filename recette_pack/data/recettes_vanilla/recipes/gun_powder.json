@@ -3,7 +3,7 @@
        "type": "minecraft:crafting_shapeless",
        "ingredients": [
            {
-               "item": "minecraft:melonslice"
+               "item": "minecraft:melon_slice"
            },
            {
                "item": "minecraft:potato"
