@@ -1,0 +1,41 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "#XO",
+    "@+-",
+    "%$*"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:diamond"
+    },
+    "X": {
+      "item": "minecraft:leather"
+    },
+
+    "O": {
+      "item": "minecraft:diamond"
+    },
+    "@": {
+      "item": "minecraft:diamond"
+    },
+    "+": {
+      "item": "minecraft:diamond"
+    },
+    "-": {
+      "item": "minecraft:diamond"
+    },
+    "%": {
+      "item": "minecraft:diamond"
+    },
+          "$": {
+      "item": "minecraft:leather"
+    },
+    "*": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "result": {
+    "item": "minecraft:diamond_horse_armor"
+  }
+}

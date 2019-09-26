@@ -1,0 +1,41 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "#XO",
+    "@+-",
+    "%$*"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:gold_ingot"
+    },
+    "X": {
+      "item": "minecraft:leather"
+    },
+
+    "O": {
+      "item": "minecraft:gold_ingot"
+    },
+    "@": {
+      "item": "minecraft:gold_ingot"
+    },
+    "+": {
+      "item": "minecraft:gold_ingot"
+    },
+    "-": {
+      "item": "minecraft:gold_ingot"
+    },
+    "%": {
+      "item": "minecraft:gold_ingot"
+    },
+          "$": {
+      "item": "minecraft:leather"
+    },
+    "*": {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "result": {
+    "item": "minecraft:golden_horse_armor"
+  }
+}

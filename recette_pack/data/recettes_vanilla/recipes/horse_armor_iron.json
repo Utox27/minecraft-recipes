@@ -1,0 +1,42 @@
+
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "#XO",
+    "@+-",
+    "%$*"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:iron_ingot"
+    },
+    "X": {
+      "item": "minecraft:leather"
+    },
+
+    "O": {
+      "item": "minecraft:iron_ingot"
+    },
+    "@": {
+      "item": "minecraft:iron_ingot"
+    },
+    "+": {
+      "item": "minecraft:iron_ingot"
+    },
+    "-": {
+      "item": "minecraft:iron_ingot"
+    },
+    "%": {
+      "item": "minecraft:iron_ingot"
+    },
+          "$": {
+      "item": "minecraft:leather"
+    },
+    "*": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "minecraft:iron_horse_armor"
+  }
+}
