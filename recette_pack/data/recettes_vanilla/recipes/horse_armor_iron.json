@@ -1,39 +1,16 @@
-
 {
   "type": "crafting_shaped",
   "pattern": [
-    "#XO",
-    "@+-",
-    "%$*"
+    "121",
+    "111",
+    "121"
   ],
   "key": {
-    "#": {
+    "1": {
       "item": "minecraft:iron_ingot"
     },
-    "X": {
+    "2": {
       "item": "minecraft:leather"
-    },
-
-    "O": {
-      "item": "minecraft:iron_ingot"
-    },
-    "@": {
-      "item": "minecraft:iron_ingot"
-    },
-    "+": {
-      "item": "minecraft:iron_ingot"
-    },
-    "-": {
-      "item": "minecraft:iron_ingot"
-    },
-    "%": {
-      "item": "minecraft:iron_ingot"
-    },
-          "$": {
-      "item": "minecraft:leather"
-    },
-    "*": {
-      "item": "minecraft:iron_ingot"
     }
   },
   "result": {
