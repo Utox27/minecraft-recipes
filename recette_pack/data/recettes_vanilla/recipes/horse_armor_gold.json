@@ -1,9 +1,9 @@
 {
   "type": "crafting_shaped",
   "pattern": [
-    "#XO",
-    "@+-",
-    "%$*"
+    "#X#",
+    "###",
+    "#X#"
   ],
   "key": {
     "#": {
@@ -11,28 +11,6 @@
     },
     "X": {
       "item": "minecraft:leather"
-    },
-
-    "O": {
-      "item": "minecraft:gold_ingot"
-    },
-    "@": {
-      "item": "minecraft:gold_ingot"
-    },
-    "+": {
-      "item": "minecraft:gold_ingot"
-    },
-    "-": {
-      "item": "minecraft:gold_ingot"
-    },
-    "%": {
-      "item": "minecraft:gold_ingot"
-    },
-          "$": {
-      "item": "minecraft:leather"
-    },
-    "*": {
-      "item": "minecraft:gold_ingot"
     }
   },
   "result": {
