@@ -1,26 +1,17 @@
 {
   "type": "crafting_shaped",
   "pattern": [
-    "123",
-    " 4 ",
-    " 5 "
+    "111",
+    " 2 ",
+    " 2 "
   ],
   "key": {
     "1": {
       "item": "minecraft:iron_ingot"
     },
-    "2": {
-      "item": "minecraft:iron_ingot"
-    },
-    "3": {
-      "item": "minecraft:iron_ingot"
-    },
-    "4": {
-      
-    },
     "5": {
-      "item": "minecraft:stick"
-    },
+      "item": "minecraft:blaze_rod"
+    }
 
   "result": {
     "item": "minecraft:trident"
